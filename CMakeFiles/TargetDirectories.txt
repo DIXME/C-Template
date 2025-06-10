@@ -1,0 +1,3 @@
+C:/Users/dom/Documents/projects/rat/CMakeFiles/rat.dir
+C:/Users/dom/Documents/projects/rat/CMakeFiles/edit_cache.dir
+C:/Users/dom/Documents/projects/rat/CMakeFiles/rebuild_cache.dir

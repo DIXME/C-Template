@@ -1,0 +1,7 @@
+# ninja log v6
+7	353	7712221023939681	CMakeFiles/rat.dir/source/main.cpp.obj	d6d521783a35f497
+353	440	7712221027399365	rat.exe	7afdb050b3820406
+4	63	7712243884387744	CMakeFiles/rat.dir/source/Header.cpp.obj	464a3d51cb382be0
+2	1370	7712241623109015	CMakeFiles/rat.dir/source/Main.cpp.obj	b1288731eb9a4890
+4	355	7712243971335517	CMakeFiles/rat.dir/source/Main.cpp.obj	b1288731eb9a4890
+356	453	7712243974849922	rat.exe	b769e3402edec66a
